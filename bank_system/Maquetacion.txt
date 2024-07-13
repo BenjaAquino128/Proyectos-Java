@@ -1,0 +1,41 @@
+1. Login
+   - Iniciar sesión: Permite a los usuarios autenticarse en la aplicación.
+   - Registrar: Proceso de creación de una nueva cuenta de usuario.
+   - Recuperar contraseña: Permite a los usuarios recuperar o restablecer su contraseña olvidada.
+
+2. Menú principal
+   - Ver saldo: Mostrar el saldo actual de todas las cuentas.
+   - Movimientos recientes: Mostrar una lista de transacciones recientes.
+
+3. Perfil de usuario
+   - Datos personales: Ver y actualizar información personal.
+   - Preferencias: Configurar preferencias de uso y personalización de la app.
+
+4. Cuentas
+   - Cuentas de ahorro: Ver detalles y movimientos de la cuenta de ahorro.
+   - Cuentas corrientes: Ver detalles y movimientos de la cuenta corriente.
+   - Tarjetas de crédito: Ver detalles, saldo disponible y movimientos de la tarjeta de crédito.
+
+5. Transferencias
+   - Transferencia entre cuentas propias: Permitir transferencias entre cuentas del mismo titular.
+   - Transferencia a terceros: Permitir transferencias a cuentas de otros usuarios del mismo banco.
+   - Transferencia interbancaria: Permitir transferencias a cuentas en otros bancos.
+   - Programar transferencias: Programar transferencias recurrentes o futuras.
+
+6. Pagos
+   - Pago de servicios: Pagar facturas de servicios públicos (luz, agua, etc.).
+   - Pago de tarjetas de crédito: Pagar el saldo de tarjetas de crédito del mismo banco u otros bancos.
+   - Pago de préstamos: Pagar cuotas de préstamos personales o hipotecarios.
+
+7. Depósitos y Retiros
+   - Depósito móvil: Permitir depósitos mediante la captura de cheques con la cámara del dispositivo.
+   - Retiros sin tarjeta: Generar códigos para retiros en cajeros automáticos sin necesidad de tarjeta.
+
+8. Préstamos
+   - Ver préstamos: Detalles sobre préstamos activos.
+   - Solicitar préstamo: Permitir la solicitud de nuevos préstamos.
+   - Calculadora de préstamos: Herramienta para calcular cuotas y condiciones de préstamos.
+
+9. Seguridad
+   - Configuración de seguridad: Cambiar contraseña, configurar autenticación de dos factores.
+   - Historial de inicio de sesión: Ver registro de inicios de sesión recientes.
