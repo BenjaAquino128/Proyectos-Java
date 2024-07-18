@@ -1,0 +1,33 @@
+                1.Longitud
+Kilómetros (km): 1 km = 1000 metros (m)
+Metros (m): 1 m = 100 centímetros (cm)
+Centímetros (cm): 1 cm = 10 milímetros (mm)
+Milímetros (mm): 1 mm = 0.001 metros (m)
+Pulgadas (in): 1 in = 2.54 centímetros (cm)
+Pies (ft): 1 ft = 12 pulgadas (in)
+Yardas (yd): 1 yd = 3 pies (ft)
+Millas (mi): 1 mi = 5280 pies (ft)
+
+                2.Masa/Peso
+Kilogramos (kg): 1 kg = 1000 gramos (g)
+Gramos (g): 1 g = 1000 miligramos (mg)
+Miligramos (mg): 1 mg = 0.001 gramos (g)
+Libras (lb): 1 lb = 16 onzas (oz)
+Onzas (oz): 1 oz = 28.3495 gramos (g)
+
+                3.Volumen
+Litros (L): 1 L = 1000 mililitros (mL)
+Mililitros (mL): 1 mL = 0.001 litros (L)
+Pintas (pt): 1 pt = 0.473176 litros (L)
+Galones (gal): 1 gal = 3.78541 litros (L)
+
+                4.Tiempo
+Segundos (s): 1 s = 1 segundo
+Minutos (min): 1 min = 60 segundos (s)
+Horas (h): 1 h = 60 minutos (min)
+Días (d): 1 d = 24 horas (h)
+
+                5.Temperatura
+Celsius (°C): Conversiones a otras unidades de temperatura
+Fahrenheit (°F): °F = (°C × 9/5) + 32
+Kelvin (K): K = °C + 273.15
